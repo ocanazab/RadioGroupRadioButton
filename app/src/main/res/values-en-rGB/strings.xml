@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="primerValor">Insert first value</string>
+    <string name="segundoValor">Insert second value</string>
+    <string name="sumar">Add</string>
+    <string name="restar">Subtract</string>
+    <string name="resultado">Outcome</string>
+    <string name="operar">Operate</string>
+</resources>
